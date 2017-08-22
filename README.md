@@ -28,4 +28,3 @@ Having Gulp installed globally is a prerequisite for using the boilerplate
 * Simple DB setup
 * Passportjs basic setup
 * Simple views
-* Add ESLint (Not Sure about this yet)
