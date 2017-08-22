@@ -73,7 +73,7 @@ gulp.task('watch', () => {
 	watch(paths.ts, () => gulp.start('transpile'));
 	watch(paths.statics, () => gulp.start('copy-statics'));
 	watch(paths.browserTS, () => gulp.start('bundle'));
-	watch(paths.sass, () => gulp.start('sass'))
+	watch(paths.sass, () => gulp.start('sass'));
 });
 
 gulp.task('start', () => {
