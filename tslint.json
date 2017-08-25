@@ -12,6 +12,9 @@
         "ter-indent": [
             true,
             "tab"
+        ],
+        "max-line-length": [
+            150
         ]
     },
     "rulesDirectory": []
