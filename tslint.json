@@ -7,8 +7,11 @@
     "rules": {
         "indent": [
             true,
-            "tabs",
-            2
+            "tabs"
+        ],
+        "ter-indent": [
+            true,
+            "tab"
         ]
     },
     "rulesDirectory": []
