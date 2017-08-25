@@ -26,5 +26,5 @@ Having Gulp installed globally is a prerequisite for using the boilerplate
 ## TODOS
 * Session management
 * Simple DB setup
-* Passportjs basic setup
+* Passportjs basic setup (WIP)
 * Simple views
