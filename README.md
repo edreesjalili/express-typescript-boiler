@@ -19,12 +19,9 @@ Having Gulp installed globally is a prerequisite for using the boilerplate
 * Express
 * Gulp (Build Tool / LiveReload)
 * EJS (View Engine)
-* MongoDB (Not Added yet)
-* Mongoose (For Schema Design)
+* MySQL
+* Sequelize
 * SASS
 
 ## TODOS
-* Session management
-* Simple DB setup
-* Passportjs basic setup (WIP)
 * Simple views
